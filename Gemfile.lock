@@ -22,7 +22,7 @@ GEM
       mixlib-versioning
       thor
     mixlib-shellout (3.0.9)
-    mixlib-versioning (1.1.0)
+    mixlib-versioning (1.2.12)
     multi_json (1.14.1)
     netrc (0.11.0)
     pry (0.13.0)
@@ -99,7 +99,7 @@ DEPENDENCIES
   colorize
   json
   mixlib-install (>= 3.11.23)
-  mixlib-versioning (~> 1.1.0)
+  mixlib-versioning (~> 1.2.12)
   pry-byebug
   rack-test
   rake
